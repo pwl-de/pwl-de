@@ -1,3 +1,3 @@
 # pawel - Paul T. Langsdorf
 
-Lichtdesign  • Offensive Security • Hobby ⚑ Collector
+Offensive Security • Red Teaming • Hobby ⚑ Collector • Lichtdesign
