@@ -1,3 +1,3 @@
 # pawel - Paul T. Langsdorf
 
-Offensive Security • Red Teaming • Hobby ⚑ Collector • Lichtdesign
+Offensive Security • Minecraft Exploitation • Hobby ⚑ Collector • Lichtdesign
