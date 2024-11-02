@@ -1,4 +1,4 @@
-# pawel - Paul T. Langsdorf
+#Paul T. Langsdorf
 
 Offensive Security • Minecraft Exploitation, Developer
 
