@@ -1,3 +1,3 @@
 # Paul T. Langsdorf
 
-Technology & IT-Security Enthusiast
+Technology & IT-Security Enthusiast, (Minecraft Server -) Exploitation
